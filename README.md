@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @FabianoCordioli
-- 👀 I’m interested in ...
+- 👀 I’m interested in Studying!
 - Email Contact: fabiano.cordioli.pereira@escola.pr.gov.br
 - 🌱 I’m currently learning programing
