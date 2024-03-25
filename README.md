@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @FabianoCordioli
-- 👀 I’m interested in Studying!
-- Email Contact: fabiano.cordioli.pereira@escola.pr.gov.br
-- 🌱 I’m currently learning programing
-- Here's my little and Simple Pong game: https://scratch.mit.edu/projects/685058173
+- 👋 ワサップ、私の名前は五条悟です
+- 👀 最強になることに興味があります
+- メール連絡先: Saturu.gojo@escola.pr.gov.br
+- 🌱現在、Infinite Voidを学習中です
