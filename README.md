@@ -1,4 +1,4 @@
 - 👋 ワサップ、私の名前は五条悟です
 - 👀 最強になることに興味があります
-- メール連絡先: Saturu.gojo@escola.pr.gov.br
+- メール連絡先: Saturu.gojo @escola.pr.gov.br
 - 🌱現在、Infinite Voidを学習中です
